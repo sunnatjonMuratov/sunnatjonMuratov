@@ -17,7 +17,7 @@ I am Sunnatjon Muratov, a Python backend developer with a passion for building r
 
 - **Languages:** Python
 - **Frameworks:** Django
-- **Databases:** SQL, PostgreSQL (psycopg2, SQLAlchemy)
+- **Databases:** SQL, PostgreSQL, MySQL, (psycopg2, SQLAlchemy)
 - **Other Technologies:** Telegram Bot (aiogram), AWS, Linux, Docker
 - **Web Technologies:** HTML, CSS
 - **Other Skills:** Asyncio
@@ -47,4 +47,5 @@ Apart from coding, I enjoy exploring new technologies and staying updated with t
 Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/sunnatjon-muratov-bb6429254/) or email me at msunnat14@gmail.com.
 
 "Just love coding"
+
 [![Sunnat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnatjonMuratov)](https://github.com/anuraghazra/github-readme-stats)
