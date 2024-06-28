@@ -1,7 +1,6 @@
 ## Hi there 👋
 # Sunnatjon Muratov
 
-![Profile Picture](https://avatars.githubusercontent.com/u/your-username)
 
 ## 👋 About Me
 
