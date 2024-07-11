@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sunnatjon Muratov</h1>
 <h3 align="center">I am a Python backend developer with a passion for building robust and scalable applications. Currently, I am in my 3rd year at PDP University, pursuing a degree in Information Technology.</h3>
 
