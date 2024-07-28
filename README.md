@@ -87,7 +87,7 @@ I aspire to become a project manager, where I can leverage my technical expertis
 Apart from coding, I enjoy exploring new technologies and staying updated with the latest trends in the tech world.
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)](https://github.com/sunnatjonMuratov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnatjonMuratov&layout=compact)](https://github.com/sunnatjonMuratov/github-readme-stats)
 
 ---
 
