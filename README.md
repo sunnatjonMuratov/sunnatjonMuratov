@@ -94,6 +94,8 @@ Apart from coding, I enjoy exploring new technologies and staying updated with t
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnatjonMuratov&layout=compact&theme=default)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sunnatjonMuratov)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
