@@ -89,11 +89,12 @@ Apart from coding, I enjoy exploring new technologies and staying updated with t
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnatjonMuratov&show_icons=true&count_private=true&theme=default)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sunnatjonMuratov&theme=default)](https://git.io/streak-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=sunnatjonMuratov)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sunnatjonMuratov&theme=default)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnatjonMuratov&layout=compact&theme=default)
+
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnatjonMuratov&layout=compact&langs_count=8&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&card_width=800&card_height=200)](https://github.com/sunnatjonMuratov/github-readme-stats)
