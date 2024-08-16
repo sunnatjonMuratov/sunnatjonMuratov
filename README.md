@@ -95,7 +95,8 @@ Apart from coding, I enjoy exploring new technologies and staying updated with t
 
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnatjonMuratov&layout=compact&langs_count=8&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&card_width=800&card_height=200)](https://github.com/sunnatjonMuratov/github-readme-stats)
+
 ---
 
 Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/sunnatjon-muratov-bb6429254/) or email me at msunnat14@gmail.com.
