@@ -81,7 +81,7 @@
 
 ## 🎯 Goals
 
-I aspire to become a project manager, where I can leverage my technical expertise and leadership skills to drive innovative projects.
+Project Management, Business Analytics, Entrepreneur, Programming, Problem Solving   
 
 ## 🎨 Interests
 
