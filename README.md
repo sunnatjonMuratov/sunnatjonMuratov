@@ -81,11 +81,11 @@
 
 ## 🎯 Goals
 
-Project Management, Business Analytics, Entrepreneur, Programming, Problem Solving   
+Project Manager
 
 ## 🎨 Interests
 
-Apart from coding, I enjoy exploring new technologies and staying updated with the latest trends in the tech world.
+Project Management, Business Analytics, Entrepreneur, Programming, Problem Solving
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnatjonMuratov&show_icons=true&count_private=true&theme=default)
 
