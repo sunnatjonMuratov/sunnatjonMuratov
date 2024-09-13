@@ -54,7 +54,7 @@
 
 ## 👨‍💻 Professional Background
 
-- **Occupation:** Python Backend Developer
+- **Occupation:** Project Manager, Business Analyst & DevOps 
 - **Email:** msunnat14@gmail.com
 - **LinkedIn:** [Sunnatjon Muratov](https://www.linkedin.com/in/sunnatjon-muratov-bb6429254/)
 
