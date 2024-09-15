@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunnatjon Muratov</h1>
-<h3 align="center">I am a Python backend developer with a passion for building robust and scalable applications. Currently, I am in my 3rd year at PDP University, pursuing a degree in Information Technology.</h3>
+<h3 align="center">I am a Project Manager, Business Analyst, Python backend developer, DevOps with a passion for leading group for building robust and scalable applications. Currently, I am in my 3rd year at PDP University, pursuing a degree in Information Technology.</h3>
 
-- 🌱 I’m currently learning **Django Rest Framework** 
+- 🌱 I’m currently learning **Jira, Project Management** 
 - 👨‍💻 All of my projects are available at [https://github.com/sunnatjonMuratov](https://github.com/sunnatjonMuratov)
 - 📫 How to reach me: **msunnat14@gmail.com**
 
