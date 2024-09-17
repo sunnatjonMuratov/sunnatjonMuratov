@@ -60,9 +60,9 @@
 
 ## 🛠️ Skills and Technologies
 
-- **Languages:** Python
+- **Languages:** Python, JavaScript
 - **Frameworks:** Django
-- **Databases:** SQL, PostgreSQL (psycopg2, SQLAlchemy)
+- **Databases:** SQL, PostgreSQL (psycopg2, Redis, Celery, SQLAlchemy)
 - **Other Technologies:** Telegram Bot (aiogram), AWS, Linux, Docker
 - **Web Technologies:** HTML, CSS
 - **Other Skills:** Asyncio
