@@ -100,4 +100,3 @@ Project Management, Business Analytics, Entrepreneur, Programming, Problem Solvi
 
 Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/sunnatjon-muratov-bb6429254/) or email me at msunnat14@gmail.com.
 
-"Just love coding"
